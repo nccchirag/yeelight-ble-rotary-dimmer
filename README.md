@@ -1,5 +1,7 @@
 # Yeelight Bluetooth Rotary Dimmer Switch
 
+![Yeelight Smart Dimmer](switch-pic.jpg)
+
 **Intent**<br/>
 To be able to use the dimmer switch with other smart home devices and applications eg. [home-assistant](https://github.com/home-assistant/home-assistant)
 
