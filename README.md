@@ -23,3 +23,9 @@ YLKG08YL Yeelight bluetooth dimmer rotary switch protocol (#TODO reverse enginee
 - https://medium.com/machine-learning-world/how-i-hacked-xiaomi-miband-2-to-control-it-from-linux-a5bd2f36d3ad
 - http://nilhcem.com/iot/reverse-engineering-simple-bluetooth-devices
 - https://blog.attify.com/the-practical-guide-to-hacking-bluetooth-low-energy/
+
+**Other Solution**
+- ESP32 based new pcb which can fit in the same plastic housing
+  - Deep Sleep
+  - LiPo battery
+  - HTTP programmable actions
