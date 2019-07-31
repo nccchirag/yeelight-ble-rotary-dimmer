@@ -13,6 +13,9 @@ YLKG08YL Yeelight bluetooth dimmer rotary switch protocol (#TODO reverse enginee
 - [Rotary Encoder](https://www.sparkfun.com/products/15083)
 - [BLE Chip Telink Semi TLSR8267](http://wiki.telink-semi.cn/doc/ds/PB_TLSR8267-E_Product%20Brief%20for%20Telink%20BLE%20SoC%20TLSR8267.pdf)
 
+**Protocol Reverse Engineering Open Issue**
+- [Issue #1](https://github.com/nccchirag/yeelight-ble-rotary-dimmer/issues/1)
+
 **References**
 - https://github.com/leopck/Yee-Light-Blue
 - https://github.com/rytilahti/python-yeelightbt
