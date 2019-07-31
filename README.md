@@ -1,5 +1,7 @@
 # Yeelight Bluetooth Rotary Dimmer Switch
-YLKG08YL Yeelight bluetooth dimmer rotary switch protocol (#TODO reverse engineer) and hardware details.
+
+**Intent**
+To be able to use the dimmer switch with other smart home devices and applications eg. [home-assistant](https://github.com/home-assistant/home-assistant)
 
 **Setup Required**
 - [YLXD02YL](https://www.aliexpress.com/item/32877610806.html) - Yeelight Ceiling Light [Yeelight 650]
