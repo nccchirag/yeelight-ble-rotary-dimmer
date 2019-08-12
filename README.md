@@ -26,8 +26,8 @@ To be able to use the dimmer switch with other smart home devices and applicatio
 **References**
 
 - **https://github.com/MiEcosystem**
-  <br/>[_referrer @saeugetier_]
-  <br/>Amazing repo by _@0xabadc0fe_ 谢谢 detailing mijia iot protocol - ble, wifi
+  <br/>[_referrer [@saeugetier](https://github.com/saeugetier)_]
+  <br/>Amazing repo by _[@0xabadc0fe](https://github.com/0xabadc0fe)_ 谢谢 detailing mijia iot protocol - ble, wifi
   - https://github.com/MiEcosystem/miio_open
   - https://github.com/MiEcosystem/mijia_ble
 - https://github.com/leopck/Yee-Light-Blue
