@@ -23,6 +23,10 @@ To be able to use the dimmer switch with other smart home devices and applicatio
 
 - [Issue #1](https://github.com/nccchirag/yeelight-ble-rotary-dimmer/issues/1)
 
+**Software Tools**
+
+- [btlejack](https://github.com/virtualabs/btlejack) [_referrer [@nikko82](https://github.com/nikko82)_]
+
 **References**
 
 - **https://github.com/MiEcosystem**
